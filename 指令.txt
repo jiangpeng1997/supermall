@@ -1,0 +1,15 @@
+
+1.连接远程仓库github
+git remote add origin https://github.com/jiangpeng1997/supermall01.git
+
+2. 错误 删除
+git remote rm origin
+
+3.第一次推送
+git push -u origin master
+第二次推送
+git push origin master
+
+Username: 1193868966@qq.com
+PW: JIANGpeng666
+
